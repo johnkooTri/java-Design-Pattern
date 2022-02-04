@@ -6,11 +6,11 @@ public class Main {
 		Ainterface ainterface = new AinterfaceImpl();
 		
 		//통로
-//		ainterface.funcA();
+		ainterface.funcA();
 		
-		AObj aObj = new AObj();
+//		AObj aObj = new AObj();
 		
-		aObj.funcAA();
+//		aObj.funcAA();
 		
 	}
 }
