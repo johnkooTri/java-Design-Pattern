@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/87956185/152806761-ac5bf632-7043-465f-a9af-eb6dc7e60228.png)
 
-
+why ???
 단 하나의 객체만 생성해 이를 어디에서든지 참조할 수 있게 만드는 것
 
     public class SomeSystemComponent {
